@@ -2,6 +2,10 @@
 
 [https://popup-react.aburifat.com/](https://popup-react.aburifat.com/)
 
+# NPM Package Link
+
+https://www.npmjs.com/package/popup-react
+
 # How to run the project?
 This `React.js` project is a showcase of the usage of the package `popup-react`, a collection of beautiful react popup components.
 
